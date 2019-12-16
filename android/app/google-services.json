@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1076463877504",
+    "firebase_url": "https://smartmedix-b3aac.firebaseio.com",
+    "project_id": "smartmedix-b3aac",
+    "storage_bucket": "smartmedix-b3aac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076463877504:android:6097f00c436f9d726d5565",
+        "android_client_info": {
+          "package_name": "com.example.smart_medix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076463877504-ug6ojob6vtkn2p3qnitbnm8eofdus2d1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smart_medix",
+            "certificate_hash": "42fc234761796e4694b0c513c967656e6c0b85d5"
+          }
+        },
+        {
+          "client_id": "1076463877504-panih4dccvlf251gqo69p11g51ujjikg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOHRzt60HUpC3dBbaSLchQYbCi5d5F1K0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076463877504-panih4dccvlf251gqo69p11g51ujjikg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
